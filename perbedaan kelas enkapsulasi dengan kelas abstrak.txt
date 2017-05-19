@@ -1,0 +1,11 @@
+Abstraksi adalah prinsip untuk mengabaikan aspek-aspek dari subyek yang tidak relevan 
+untuk maksud tertentu untuk berkonsentrasi lebih penuh padanya.Abstraksi merupakan
+proses menyembunyikan detail dari proses yang dilakukan. Ditunjukan dengan penggunaan 
+keyword abstrac pada kelasnya
+
+
+Enkapsulasi adalah pembungkus, pembungkus disini dimaksudkan untuk menjaga suatu 
+proses program agar tidak dapat diakses secara sembarangan atau di intervensi oleh 
+program lain. Konsep enkapsulasi sangat penting dilakukan untuk menjaga kebutuhan 
+program agar dapat diakses sewaktu-waktu, sekaligus menjaga program tersebut. 
+Biasanya setiap atribut dari kelas di set-private
